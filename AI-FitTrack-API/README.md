@@ -55,7 +55,7 @@ Example:
 
 ```json
 {
-  "name": "Sukumaaran",
+  "name": "Sukumaaran M",
   "email": "user@example.com",
   "password": "password123",
   "age": 20,
